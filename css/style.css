@@ -5,7 +5,8 @@
 h1, h2, h3, h4, h5, h6, em, #back a, span.gc-cs-link { font-family: 'droid-sans-bold'; letter-spacing: initial; }
 p { line-height: 21px; }
 em { font-style: initial; }
-a:hover, a em:hover { font-style: oblique; }
+a:hover, a em:hover { font-style: italic; }
+a:hover span { font-style: italic; }
 
 
 #front { clear: both; }
